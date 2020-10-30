@@ -1,3 +1,3 @@
 # Nagiosclient
 
-Nagios Plugins are in "/usr/local/nagios/"
+Nagios Plugins are in "/usr/local/nagios/libexec/"
